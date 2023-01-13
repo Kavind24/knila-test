@@ -23,8 +23,7 @@ WEB:
  2. npm start to run the application.
 
 GoogleMAP:
- 1. I have integrated Google Map API, but due to billing account issue the API KEY will not work.
-    So Please use a valid API KEY in REACT_GOOGLE_MAP_API_KEY env.local file.
+ 1. I have integrated Google Map API, So Please use a valid API KEY in REACT_GOOGLE_MAP_API_KEY env.local file.
  2. Steps to take API KEY and enabling Javascript Map API is given in the below url. Please have a look.
     https://developers.google.com/maps/documentation/javascript/get-api-key#console_1
 
